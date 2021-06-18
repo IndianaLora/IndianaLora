@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=indianalora&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/indianalora/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indianalora&layout=compact&theme=highcontrast&card_width=300px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indianalora&layout=compact&theme=onedark&card_width=300px" />
 </a>
 
 
