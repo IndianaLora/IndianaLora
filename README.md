@@ -6,7 +6,7 @@
 - 👯 I speak spanish , english and i'm currently learning german😍...
 - ⚡ Fun fact: Smiling it's a daily habbit so,dont forget to laugh when you smile 😁😊😉!!!
 
-## :clipboard: ; GitHub Stats
+## :clipboard: GitHub Stats
 
 <a href="https://github.com/indianalora/github-readme-stats">
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=indianalora&show_icons=true&theme=radical" />
